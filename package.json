@@ -7,8 +7,7 @@
   ],
   "version": "1.1.0",
   "description": "A draggable grid for react native",
-  "main": "built/index.js",
-  "types": "src/index.ts",
+  "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/SHISME/react-native-draggable-grid"
@@ -20,8 +19,6 @@
   "author": "shisme",
   "license": "ISC",
   "devDependencies": {
-    "@types/react": "*",
-    "@types/react-native": "*",
     "react": "*",
     "react-native": "*",
     "typescript": "^3.0.3"
