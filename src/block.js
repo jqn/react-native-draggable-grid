@@ -1,6 +1,7 @@
 import * as React from "react";
 import { Animated, TouchableWithoutFeedback, StyleSheet } from "react-native";
-export class Block extends React.Component {
+
+export default class Block extends React.Component {
   render() {
     return (
       <Animated.View
